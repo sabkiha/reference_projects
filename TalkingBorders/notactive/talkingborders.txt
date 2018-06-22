@@ -1,0 +1,35 @@
+dbconnect.php 2x
+
+ define('DBHOST', 'talkingb.mysql.univie.ac.at');
+ define('DBUSER', 'talkingb');
+ define('DBPASS', 'F2A-4cN5tD');
+ define('DBNAME', 'talkingb');
+
+ define('DBHOST', '127.0.0.1');
+ define('DBUSER', 'root');
+ define('DBPASS', '');
+ define('DBNAME', 'talkingb');
+
+home.php user_create_comment.php
+
+$servername = "127.0.0.1";
+$username   = "root";
+$password   = ""; 
+$dbname     = "talkingb";
+
+$servername = "talkingb.mysql.univie.ac.at";
+$username   = "talkingb";
+$password   = "F2A-4cN5tD"; 
+$dbname     = "talkingb";
+
+actions/db_connect.php
+
+$localhost = "talkingb.mysql.univie.ac.at";
+$username = "talkingb";
+$password = "F2A-4cN5tD";
+$dbname = "talkingb";
+
+
+
+
+
