@@ -5,8 +5,7 @@ Dies ist ein Projekt für die Universität Wien (Citizen Science Experiment). Di
 Funktion Digital Cafe: Login mit zwei Zugangsniveaus (Admin, User). User sehen ein Diskussionsforum. Hier werden vom Webmaster Textzitate gepost und User können anhand von Kommentaren diskutieren. Der Admin kann Posts aktivieren und ändern, sowie Kommentare ändern und löschen. Dieser Bereich ist noch work-in-progress.
 Funktion Upload: Upload von Audiodateien (Interviews). Upload von Textzitaten in MySQL Datenbank. Diese Zitate können dann vom Admin im Digital Café bearbeitet und gepost werden. 
 Die Zugangsdaten sind bei dieser Seite im Vorhinein in die Datenbank eingegeben (zufällig generierte Namen und Passwörter), da es für das Experiment wichtig war, dass die Beiträge im Diskussionsforum keine personengebundenen Daten enthalten. 
-Admin Zugangsdaten	Username: GlobalCafe		PW: SuperUser
-User Zugangsdaten	Username DreamBlackberry	PW: 123456
+User Zugangsdaten	Username NepUser	PW: NepUser
  
 
 ## Recipe4Me
